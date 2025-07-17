@@ -1,4 +1,4 @@
-Varius stock Voxellab Aquila & Aries firmwares, 
+Varius stock Voxelab Aquila & Aries firmwares, 
 as well as VoxelMaker & VoxelPrint
 
 Aquired on 18/07/2025, most files date from 2022 or 2023. Preserved before the OEM's asset webservers went away.
